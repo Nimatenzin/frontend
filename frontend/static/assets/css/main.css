@@ -481,7 +481,7 @@ nav.navbar.bootsnav.navbar-fixed .button-holder {
 #home {
   position: relative;
   padding: 190px 0px 120px 0px;
-  background: url("/static/assets/img/hello.jpg");
+  background: url(../img/hello.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat; }
@@ -799,7 +799,3 @@ footer {
     footer li a:focus,
     footer li a:active {
       color: #496174; }
-
-  select#gender {
-        height: 39px;
-    }
